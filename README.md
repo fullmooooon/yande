@@ -1,7 +1,7 @@
 # yande
 Yande.re  popular_by_month 图片爬虫
 
-发现yande上的每月popular的图片都很棒！所以写了这个工具自动下载
+发现yande上的每月 [popular](https://yande.re/post/popular_by_month) 的图片都很棒！所以写了这个工具自动下载
 
 # 如何使用
 
