@@ -6,8 +6,10 @@
   "dependencies": {
     "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.5",
+    "dayjs": "^1.10.5",
     "download": "^8.0.0",
-    "global-agent": "^2.1.12"
+    "global-agent": "^2.1.12",
+    "sharp": "^0.29.1"
   },
   "devDependencies": {},
   "scripts": {
